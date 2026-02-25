@@ -1,4 +1,4 @@
-# Motorbike-Java-Program
+# Restaurant-Java-ProgramCE
 # Markdown syntax guide
 
 ## Headers
